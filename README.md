@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ### npm install @tensorflow-models/posenet  
 ### npm install @tensorflow/tfjs 
-### npm install reacct-webapp
+### npm install react-webapp
 In the project directory, you can run:
 
 ### `npm start`
