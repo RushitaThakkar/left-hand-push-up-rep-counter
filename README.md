@@ -15,7 +15,6 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The web camera will open up in the we browser
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
 Tensorflow JS PoseNet module is used for calculating the landmarks 
 Then use the angle between left shoulder, elbow and wrist to count the number of push ups
